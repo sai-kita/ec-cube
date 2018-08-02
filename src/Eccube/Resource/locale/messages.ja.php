@@ -487,6 +487,8 @@ return [
     'form.type.customer.company.nothasspace' => '会社名にスペース、タブ、改行は含めないで下さい。',
     'form.type.admin.nottelstyle' => '電話番号は半角数字かハイフンのみを入力してください。',
     'form.type.admin.notkanastyle' => 'お名前(フリガナ)はカタカナで入力してください。',
+    'form.type.kana.firstname.notkanastyle' => 'お名前(メイ)はカタカナで入力してください。',
+    'form.type.kana.lastname.notkanastyle' => 'お名前(セイ)はカタカナで入力してください。',
     'form.type.select.notselect' => '入力されていません。',
     'form.type.select.classcategory' => '項目が選択されていません。',
     'form.type.add.quantity' => '1以上で入力してください。',
